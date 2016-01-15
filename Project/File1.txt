@@ -1,4 +1,11 @@
 Hellooooo
+<<<<<<< HEAD
 Thiss is Devinder..!! :)
 This is charu
 badroddin changes.....!!
+=======
+Thiss is file1
+
+This is charu
+THis line is added by noshir
+>>>>>>> origin/Develop
